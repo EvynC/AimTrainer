@@ -2,7 +2,8 @@ package io.github.evyncatton.lwjgl3;
 
 import com.badlogic.gdx.backends.lwjgl3.Lwjgl3Application;
 import com.badlogic.gdx.backends.lwjgl3.Lwjgl3ApplicationConfiguration;
-import io.github.evyncatton.AimTrainerGameMain;
+
+import io.github.evyncatton.app.AimTrainerGameMain;
 
 /** Launches the desktop (LWJGL3) application. */
 public class Lwjgl3Launcher {
